@@ -1,5 +1,4 @@
 
-name: Build Bander Moves APK
 
 on:
   workflow_dispatch:
